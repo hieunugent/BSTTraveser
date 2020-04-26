@@ -7,7 +7,7 @@
 - it will show the root node first then the left node until no more left node, 
 - go considering the right node of immediate level
 # post-order
-- go by the most left  then their right then root 
+- the most left  then their right then root 
 
 
 
